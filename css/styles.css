@@ -10962,6 +10962,7 @@ section.resume-section .resume-section-content {
 section.resume-section .resume-section-content li {
   width: 100%;
   display:inline;
+  padding-right:50px;
 }
 
 /*
